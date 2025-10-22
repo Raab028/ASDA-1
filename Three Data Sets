@@ -15,4 +15,17 @@ I’m interested in demographic trends and global development. This dataset allo
 [UN World Population Dataset (via Our World in Data)](https://ourworldindata.org/world-population-growth)
 <br>
 <br>
+## Dataset 2: Global Trade Flows Dataset 🌐📦
 
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/World_exports_map.png/1280px-World_exports_map.png" alt="World Exports Map" width="600"/>
+</p>
+
+#### 📌 Description:
+This dataset provides detailed information on international trade between countries from 2000 to 2020. It includes variables like exporter/importer countries, product categories (based on HS codes), trade volume (USD), and trade balance. The data is sourced from the United Nations COMTRADE database and can be grouped by region, product type, or economic status.
+
+#### ✅ Reason for Choosing:
+I chose this dataset because trade is at the core of global economics. It allows for analysis of trade imbalances, dependency on certain exports, and how global events like recessions or pandemics influence international markets.
+
+#### 🔗 Source:
+[UN Comtrade Database](https://comtrade.un.org/data)
