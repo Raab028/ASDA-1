@@ -29,3 +29,22 @@ I chose this dataset because trade is at the core of global economics. It allows
 
 #### 🔗 Source:
 [UN Comtrade Database](https://comtrade.un.org/data)
+<br>
+<br>
+<br>
+## Dataset 3: Used Car Listings and Prices 🚗💰
+
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Used_Car_Dealer.jpg/1200px-Used_Car_Dealer.jpg" alt="Used Cars" width="600"/>
+</p>
+
+#### 📌 Description:
+This dataset contains over 370,000 used car listings collected from various dealerships across the United States. It includes features like brand, model, year, mileage, price, transmission, fuel type, location, and posting date. The dataset is ideal for building price prediction models or studying car depreciation over time.
+
+#### ✅ Reason for Choosing:
+I’m personally interested in cars, and I think it’s fascinating to see how pricing varies by mileage, location, and brand. This data can help buyers, sellers, and even analysts understand the used vehicle market better.
+
+#### 🔗 Source:
+[Kaggle – Used Cars Dataset](https://www.kaggle.com/datasets/austinreese/craigslist-carstrucks-data)
+
+---
