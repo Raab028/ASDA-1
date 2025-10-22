@@ -1,1 +1,18 @@
+<br>
+## Dataset 1: World Population by Country (1950–2022) 🌍
+
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/World_population_growth_1800-2100.svg/1280px-World_population_growth_1800-2100.svg.png" alt="Population Growth Chart" width="600"/>
+</p>
+
+#### 📌 Description:
+This dataset presents the population figures of every country in the world from 1950 to 2022. It includes variables such as country name, year, total population, population density, population growth rate, and world region. It’s a longitudinal dataset ideal for trend analysis.
+
+#### ✅ Reason for Choosing:
+I’m interested in demographic trends and global development. This dataset allows me to analyze how population has evolved across regions, identify high-growth nations, and study links between population trends and urbanization.
+
+#### 🔗 Source:
+[UN World Population Dataset (via Our World in Data)](https://ourworldindata.org/world-population-growth)
+<br>
+<br>
 
